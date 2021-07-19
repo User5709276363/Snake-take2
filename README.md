@@ -1,2 +1,2 @@
-# Snake Take2
- by noob
+# Snake take2
+ noob
